@@ -65,26 +65,27 @@
 ---
 
 
-## ⏰ 시간대별 커밋 분석
-
-```text
-1 🌞 Morning  184 commits ████████████████████ 35.9%
-2 🏢 Daytime  106 commits ███████████⋅⋅⋅⋅⋅⋅⋅⋅⋅ 20.7%
-3 🌆 Evening   54 commits █████⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ 10.5%
-4 🌙 Night    168 commits ██████████████████⋅⋅ 32.8%
-```
-
-마지막 업데이트: 2025-01-08 16:07:22
-
----
-
 ## 📧 Contact 📧
 <p align="center">
   <a href="mailto:rkdalswjd0405@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EXPOIR0405&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+## ⏰ 시간대별 커밋 분석
+
+```text
+1 🌞 Morning  184 commits ████████████████████ 35.5%
+2 🏢 Daytime  110 commits ███████████⋅⋅⋅⋅⋅⋅⋅⋅⋅ 21.2%
+3 🌆 Evening   57 commits ██████⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ 11.0%
+4 🌙 Night    168 commits ██████████████████⋅⋅ 32.4%
+```
+
+마지막 업데이트: 2025-01-09 01:02:09
+
+---
+
+url=https://github.com/EXPOIR0405&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
 
 
