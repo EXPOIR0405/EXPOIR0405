@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Small ideas. Useful things.</title><desc id="desc">AI products, automation and thoughtful experiments. A midnight blue editorial banner with orbital line art.</desc>
+<rect width="1200" height="320" rx="16" fill="#101d35"/>
+<g fill="none" stroke="#294567" stroke-width="1"><circle cx="1010" cy="160" r="205"/><circle cx="1010" cy="160" r="155"/><circle cx="1010" cy="160" r="105"/><path d="M790 160h420M1010 0v320"/></g>
+<circle cx="1010" cy="55" r="7" fill="#a7c9fa"/><circle cx="855" cy="160" r="5" fill="#6e9edc"/>
+<path d="M60 60h32" stroke="#a7c9fa" stroke-width="4"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="108" y="65" font-size="13" letter-spacing="3" fill="#a7c9fa">BUILD / LEARN / REFINE</text>
+<text x="60" y="144" font-size="52" font-weight="700" letter-spacing="-2" fill="#f3f6fc">Small ideas.</text>
+<text x="60" y="204" font-size="52" font-weight="700" letter-spacing="-2" fill="#f3f6fc">Useful things.</text>
+<text x="62" y="266" font-size="16" letter-spacing="1" fill="#a4b8d4">AI PRODUCTS · AUTOMATION · EXPERIMENTS</text></g></svg>
