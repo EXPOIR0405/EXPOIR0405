@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>반복되는 일에서 아이디어를 찾고, 직접 만들어 확인합니다.</b><br/>
-  <sub>AI Product Builder · Minjeong Kang</sub>
+  <sub>AI Product Builder</sub>
 </p>
 
 <p align="center">
